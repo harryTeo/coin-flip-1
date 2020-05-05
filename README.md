@@ -1,2 +1,5 @@
-# coin-flip-1
-Coin Flip Application
+# Coin Flip Application
+
+Coin Flip Application - Version 1
+
+## Live Site
